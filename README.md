@@ -1,7 +1,6 @@
 # Task on asynchronous messaging with RabbitMQ
 
 Aalto University CS-E4190 - Cloud Software and Systems
-(scafolding)
 
 Smart shopping application using Python and RabbitMQ(Pika)
 
